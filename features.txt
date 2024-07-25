@@ -2,4 +2,5 @@ dark mode
 videos
 audio
 
-emojcolors
+emoji 
+colors
